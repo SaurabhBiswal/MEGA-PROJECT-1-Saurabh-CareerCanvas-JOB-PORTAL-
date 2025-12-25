@@ -63,3 +63,9 @@ npm start
 npm run dev
 
 Developed with ❤️ by Saurabh
+graph TD
+    A[User Browser] -->|Interacts| B(React Frontend - Netlify)
+    B -->|Authenticates| C{Clerk Auth}
+    C -->|Authorized Request| D[Express Backend - Render]
+    D -->|CRUD Operations| E[(MongoDB Atlas)]
+    D -->|Uploads/Assets| F[Cloudinary]
