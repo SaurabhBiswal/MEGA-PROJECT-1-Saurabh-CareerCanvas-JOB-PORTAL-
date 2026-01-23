@@ -6,6 +6,10 @@ Live Frontend: https://symphonious-madeleine-d8818d.netlify.app/
 
 Backend API: https://mega-project-1-saurabh-careercanvas-job.onrender.com
 
+Live Demo
+Frontend Vercel: https://assignment-ai-powered-job-tracker-w.vercel.app/
+Backend Render: https://assignment-ai-powered-job-tracker-with.onrender.com
+
 ✨ Key Features
 For Job Seekers 👨‍💻
 Smart Search: Filter jobs by title and location using an optimized search engine.
